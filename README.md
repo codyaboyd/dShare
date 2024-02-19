@@ -25,6 +25,14 @@ Before you begin, ensure you have Node.js installed on your system. You will als
       "API_TOKEN": "Your_NFT.Storage_API_Token_Here"
     }
     ```
+4. Compile to binary:
+    ```
+     npx pkg dShare.js -t node18-x64-linux
+     npx pkg dShare.js -t node18-x64-windows
+     npx pkg dShare.js -t node18-x64-macos
+     npx pkg dShare.js -t node18-arm64-linux
+     npx pkg dShare.js -t node18-arm64-macos
+    ```
 
 ## Usage
 
