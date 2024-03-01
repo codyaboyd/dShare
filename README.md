@@ -1,5 +1,10 @@
 # dShare: Decentralized File Sharing
 
+<p align="center">
+<img src="https://github.com/codyaboyd/dShare/assets/57097960/35636c70-f5a4-4a0c-b6e4-5168f0497989">
+</p>
+
+
 dShare is a Node.js-based tool for securely splitting, encrypting, uploading, downloading, and reassembling files using NFT.Storage. It enables users to share large files over the decentralized web, with optional encryption for added security.
 
 ## Features
